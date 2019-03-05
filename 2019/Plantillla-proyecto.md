@@ -11,8 +11,10 @@ Resumen:
 
 
 - Contexto: 
+El planeta Tierra se ve dirigido por un gobierno dictatorial, este crea una plataforma de streaming nueva que permite a los humanos sumergirse al mundo de las series. Pero esto no es más que una forma de control para realizar experimentos sociales, y esta forma de transportarse no son más que sueños oníricos. En la cúspide de esta dictadura se encuentra X, un Gato zombie cute, navegante de la Galaxia y Rey del Planeta Gattus, dictador que pretende dominar el resto de especies inteligentes.
 
 - Personaje: 
+Malvado, dominador, manipulador, sociópata, sin escrúpulos…
 
 - Historia: 
 
