@@ -35,9 +35,9 @@ Resumen:
 
 
 Autores: 
-- :man: 
-- :woman:
-- :woman: 
+- :man: Mario Galán
+- :woman: Alba Warsewa
+- :woman: María Sánchez
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
