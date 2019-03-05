@@ -1,7 +1,6 @@
 # HolaHola
 
 ![](http://multimedialasflores.com.ar/wp-content/uploads/2018/10/001-cohete.png)
-file:///C:/Users/jgala/Downloads/Gattus.jpg
 --
 
 Nombre del Equipo: RIOBARIA :yellow_heart:   :blue_heart: :green_heart:
