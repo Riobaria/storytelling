@@ -6,7 +6,7 @@
 ![](http://multimedialasflores.com.ar/wp-content/uploads/2018/10/001-cohete.png)
 --
 
-Nombre del Equipo: RIOBARIA :red_heart:   :blue_heart: :green_heart:
+Nombre del Equipo: RIOBARIA :yellow_heart:   :blue_heart: :green_heart:
 
 Proyecto 
 
