@@ -8,7 +8,10 @@ Nombre del Equipo: RIOBARIA :yellow_heart:   :blue_heart: :green_heart:
 Proyecto: Viajes Espaciales
 
 Resumen:  
+
 Gattus trata de dominar el universo, cuenta porqué esta obsesión desde pequeño.
+
+
 
 - Contexto: 
 El planeta Tierra se ve dirigido por un gobierno dictatorial, este crea una plataforma de streaming nueva que permite a los humanos sumergirse al mundo de las series. Pero esto no es más que una forma de control para realizar experimentos sociales, y esta forma de transportarse no son más que sueños oníricos. En la cúspide de esta dictadura se encuentra Gattus, un Gato malvado, navegante de la Galaxia y Rey del Planeta Gattus, dictador que pretende dominar el resto de especies inteligentes.
